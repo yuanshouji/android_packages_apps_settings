@@ -507,4 +507,11 @@
         <item name="android:paddingBottom">24dp</item>
     </style>
 
+    <style name="settigns_dashboard_title" parent="@style/TextAppearance.TileTitle">
+        <item name="android:fontFamily">google-sans-medium</item>
+    </style>
+    <style name="settigns_dashboard_subtitle" parent="@style/TextAppearance.Small">
+        <item name="android:fontFamily">google-sans</item>
+    </style>
+
 </resources>
